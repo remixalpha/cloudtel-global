@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+
+    "title": "Banner Title",
+    "description": " Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui     lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat     fugiat aliqua.",
+    "buttonText": "Get started"
+  },
+  {
+    "id": 2,
+
+    "title": "Banner Title 2",
+    "description": "Banner Description 2",
+    "buttonText": "Explore"
+  },
+  {
+    "id": 3,
+
+    "title": "Banner Title 3",
+    "description": "Banner Description 3",
+    "buttonText": "Get Started"
+  }
+]
